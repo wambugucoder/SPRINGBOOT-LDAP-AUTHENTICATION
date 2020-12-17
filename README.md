@@ -7,4 +7,4 @@ LDAP user authentication is the process of validating a username and password co
 LDAP directories are standard technology for storaging user, group and permission information and serving that to applications in the enterprise.
 
 
-![Demo]()
+![Demo](https://github.com/wambugucoder/SPRINGBOOT-LDAP-AUTHENTICATION/blob/main/Structure/index.png)
